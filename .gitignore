@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+preview_receipt.bin
+.DS_Store
