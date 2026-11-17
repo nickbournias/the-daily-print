@@ -4,3 +4,8 @@ __pycache__/
 .venv/
 preview_receipt.bin
 .DS_Store
+
+credentials.json
+token.json
+.venv/
+cron.log
