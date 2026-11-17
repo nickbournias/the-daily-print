@@ -19,7 +19,7 @@ The goal is to make the morning briefing useful without turning it into another 
 
 ### ✉️ Print messages from the web
 
-A custom website interface lets me send short messages to the printer. These arrive as physical receipt-style slips, with distinctive formatting for incoming messages. Want to try it? Send me a message at https://nickbournias.com/connect.
+A custom website interface lets me send short messages to the printer. These arrive as physical receipt-style slips, with distinctive formatting for incoming messages. Want to try it? Send me a message at https://nickbournias.com/contact.
 
 The web-to-printer workflow uses a Cloudflare-protected endpoint. 
 
